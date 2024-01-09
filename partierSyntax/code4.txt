@@ -1,0 +1,10 @@
+program darim;
+
+Const farid = 4;
+
+begin
+
+if saif > karim then
+karim = karim + 4;
+
+end

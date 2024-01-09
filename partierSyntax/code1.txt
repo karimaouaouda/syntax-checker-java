@@ -1,0 +1,13 @@
+program karim;
+Const x = 4;
+
+Var karim, saif :integer;
+
+begin
+
+if a > b + s + s  then saif = saif / saif + 4;
+
+saif;
+saif + d;
+
+end;

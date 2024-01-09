@@ -1,0 +1,12 @@
+program 5far;
+
+Var saif,karim: integer;
+
+
+begin
+
+if saif > 4 then;
+
+saif + /5;
+
+end;

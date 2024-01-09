@@ -1,0 +1,13 @@
+progra saif;
+
+Const s = 7;
+
+Var s : integer;
+
+begin
+
+saif = saif + 5 - 4 * m -;
+
+karim = marwa + marwa ** saif;
+
+end

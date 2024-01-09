@@ -1,0 +1,14 @@
+program saif;
+
+Const saif = karim;
+Const farid = 4;
+
+Var ,saif,jaril : sqdsq;
+
+begin
+
+
+saif = /saif + 4;
+
+
+end
